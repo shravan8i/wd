@@ -57,3 +57,10 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
+
+/*
+//npm install -g @angular/cli@latest
+//ng new part-c
+//cd part-c
+PS C:\Users\Admin\OneDrive\Documents\wd_code\wd\angular_user\part-c> ng serve */
